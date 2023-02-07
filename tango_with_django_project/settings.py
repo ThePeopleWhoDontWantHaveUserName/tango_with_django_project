@@ -26,6 +26,9 @@ SECRET_KEY = 'vew4p-9j0=)f23xska#db-3-@(t%nh7-k@pl2n*27tesxl8t=7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+SESSION_COOKIE_AGE = 1209600
+
+
 ALLOWED_HOSTS = []
 
 
